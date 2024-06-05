@@ -1,0 +1,7 @@
+ad_def_log10m.npy filter=lfs diff=lfs merge=lfs -text
+ad_def.npy filter=lfs diff=lfs merge=lfs -text
+ad_hp0.npy filter=lfs diff=lfs merge=lfs -text
+ad_om0.npy filter=lfs diff=lfs merge=lfs -text
+ad_sig.npy filter=lfs diff=lfs merge=lfs -text
+ad_sin.npy filter=lfs diff=lfs merge=lfs -text
+ad_tfu.npy filter=lfs diff=lfs merge=lfs -text
